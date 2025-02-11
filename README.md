@@ -1,4 +1,4 @@
-# Grafos_SubDominante
+# Grafos_Subconjunto_Independente 
 
 # Comparação de Algoritmos para o Problema do Subconjunto Independente Máximo
 
